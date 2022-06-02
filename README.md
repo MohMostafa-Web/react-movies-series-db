@@ -1,6 +1,6 @@
-# The Movie Database API
+## The Movie Database API
 
-For more about API Doc: Go to [https://developers.themoviedb.org/3/getting-started/introduction](Movie Database API Documentation)
+For more about API Doc: Go to [Movie Database API Documentation](https://developers.themoviedb.org/3/getting-started/introduction)
 
 # Getting Started with Create React App
 
