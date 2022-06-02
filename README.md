@@ -1,3 +1,7 @@
+## Live Site Demo
+
+Go to [https://react-movies-series-db.netlify.app](https://react-movies-series-db.netlify.app/)
+
 ## The Movie Database API
 
 For more about API Doc: Go to [Movie Database API Documentation](https://developers.themoviedb.org/3/getting-started/introduction)
