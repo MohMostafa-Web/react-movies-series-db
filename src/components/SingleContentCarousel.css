@@ -1,0 +1,21 @@
+.modal-carousel {
+  margin: 10px 0;
+}
+.modal-carousel .slide-item {
+  width: 80% !important;
+  max-width: 120px;
+  outline: none;
+  display: flex !important;
+  flex-direction: column !important;
+}
+.slide-item .actor-img {
+  max-width: 100%;
+  margin-bottom: 5px;
+  border-radius: 10px;
+  box-shadow: 0 0 5px black;
+}
+.slide-item .actor-name {
+  text-align: left;
+  font-weight: normal;
+  font-size: 14px;
+}
